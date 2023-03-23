@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "proftools"]
+	path = proftools
+	url = https://github.com/cran/proftools
+	shallow = true
+	registered = true
+[submodule "snow"]
+	path = snow
+	url = https://github.com/cran/snow
+	shallow = true
+	registered = true
+[submodule "tkrplot"]
+	path = tkrplot
+	url = https://github.com/cran/tkrplot
+	shallow = true
+	registered = true
